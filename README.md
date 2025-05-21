@@ -1,4 +1,4 @@
-# Run and deploy your TerraformGenerator app
+# Terraform Generator
 
 This is an AI-powered application designed to generate Terraform Infrastructure as Code (IaC) scripts. Simply upload your architecture diagram, select the relevant Cloud Service Provider (CSP), and the application will output organized Terraform code across multiple files.
 
