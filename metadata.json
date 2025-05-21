@@ -1,0 +1,6 @@
+{
+  "description": "An application that takes an uploaded image of a cloud application architecture diagram and a selected cloud provider (AWS, GCP, Azure) to generate the corresponding Terraform code using the Gemini API.",
+  "prompt": "",
+  "requestFramePermissions": [],
+  "name": "Terraform Generator"
+}
